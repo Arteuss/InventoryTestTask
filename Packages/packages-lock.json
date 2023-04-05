@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.elestrago.simpleui": {
+      "version": "https://gitlab.com/elestrago63/simpleui.git#upm-dev",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "942382e2be8ae895f566f8e7d794c0bd78199bba"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.9",
       "depth": 1,
